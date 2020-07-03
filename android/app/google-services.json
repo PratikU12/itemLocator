@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398387577000",
+    "firebase_url": "https://item-locator-157ae.firebaseio.com",
+    "project_id": "item-locator-157ae",
+    "storage_bucket": "item-locator-157ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398387577000:android:c9b61b2c0197a93d31029d",
+        "android_client_info": {
+          "package_name": "com.pratik.itemlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398387577000-445nktnk5uk4faf2a6v1gblota51p2te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7T7-42B7ljA5IWETtmiQFZhzk5sKo6Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398387577000-445nktnk5uk4faf2a6v1gblota51p2te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
